@@ -18,8 +18,8 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-/[Pp]ythonFiles/
-!/[Pp]ythonFiles/Testereeer.py
+!/[Pp]ythonFiles/
+/[Pp]ythonFiles/Testereeer.py
 *.rtf
 *.txt
 *.py
