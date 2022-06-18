@@ -18,10 +18,8 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-!/[Pp]ythonFiles/
-/[Pp]ythonFiles/Testereeer.py
+/[Pp]ythonFiles/*.py
 *.rtf
-*.txt
 *.py
 
 # Visual Studio 2015-2017 cache/options directory
