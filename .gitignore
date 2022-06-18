@@ -19,6 +19,7 @@ bld/
 [Ll]og/
 [Ll]ogs/
 /[Pp]ythonFiles/*.py
+/[Bb]ranch_lesson/*.txt
 *.rtf
 *.py
 
